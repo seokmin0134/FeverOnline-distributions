@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "feveronline-1.12.2",
-      "name": "FeverOnline- (Minecraft 1.12.2)",
+      "name": "FeverOnline (Minecraft 1.12.2)",
       "description": "FeverOnline Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": null,
       "version": "1.0.0",
@@ -23,4 +23,3 @@
       "mainServer": true,
       "autoconnect": true,
       "modules": [
-        {
